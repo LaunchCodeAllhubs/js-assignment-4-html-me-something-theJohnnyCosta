@@ -1,1 +1,89 @@
-/* Write your CSS here! */
+body {
+    background-color:black;
+    display: block;
+    margin: 8px;
+}
+
+p {
+  margin: auto;
+  width: 50%;
+  border: 3px khaki solid ;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: aliceblue
+  }
+
+h1 {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkseagreen;
+}
+
+.shop-photograph {
+    display: block;
+    width:  700px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#elixrPhoto{
+    display: block;
+    width:  700px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#local80Logo{
+    display: block;
+    width:  500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mainHeading{
+    visibility: hidden;
+    color: red;
+    font-size: 50px;
+}
+
+header{
+    margin: auto;
+    margin-bottom: 2%;
+    width: 50%;
+    border: 10px dashed burlywood;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:white;
+}
+
+figcaption{
+  margin: auto;
+  width: 50%;
+  border: 3px dotted blanchedalmond;
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: aliceblue;
+}
+
+.funParagraph{
+    color: green;
+    visibility: hidden;
+}
+
+footer{
+    margin-top: 5%;
+}
